@@ -19,8 +19,6 @@ A simple full-stack task management application built with Vue.js, Express.js, a
 
 * Vue 3
 * Vite
-* Pinia
-* Axios
 * Bootstrap
 
 ### Backend
